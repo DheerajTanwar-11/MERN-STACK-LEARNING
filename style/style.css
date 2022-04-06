@@ -1,0 +1,26 @@
+body {
+  background-color: bisque;
+  color: yellowgreen;
+  margin: 50px;
+  padding: 50px;
+}
+
+div {
+  border: 2px solid black;
+  border-radius: 5px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 60px;
+  font-weight: bolder;
+  text-align: center;
+  margin: 30px;
+  padding: 20px;
+}
+
+div:hover {
+  background-color: brown;
+  color: aqua;
+}
+
+span {
+  border: 2px solid black;
+}
